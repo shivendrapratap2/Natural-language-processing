@@ -6,4 +6,4 @@ A causal relation between two events exists if the occurrence of the first cause
 The automatic detection and extraction of Semantic Relations is a crucial step to improve the performance of several Natural Language Processing applications.
 Our work is based on causal relation extraction from medical domain text. 
 
-[for further information about causal relation you can go to](http://lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)
+[Click here for further information about causal relations](http://lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)
