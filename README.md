@@ -12,4 +12,5 @@ Our work is based on causal relation extraction from medical domain text.
 This project is about a system consisting of a user interface and a deep neural network in the backend. The person with disability would select few images (whose names are keywords) and the model will try to predict what person wants to say.
 
 ### Toxic comment classification
-
+impelementation for Jigsaw Multilingual Toxic Comment Classification competetion on kaggle.
+[Details] (https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
