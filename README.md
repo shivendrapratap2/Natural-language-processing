@@ -13,4 +13,4 @@ This project is about a system consisting of a user interface and a deep neural 
 
 ### Toxic comment classification
 impelementation for Jigsaw Multilingual Toxic Comment Classification competetion on kaggle.
-[Details] (https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
+[Details](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
