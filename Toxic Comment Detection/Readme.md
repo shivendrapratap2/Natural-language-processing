@@ -1,13 +1,13 @@
-# Info
-# Challange Name : Jigsaw Multilingual Toxic Comment Classification
-# Link : https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+ >> Info
+ Challange Name : Jigsaw Multilingual Toxic Comment Classification
+ Link : https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 
 # Proceeding >>>
-# i.   used pretrained BERT (Bidirectional Encoder Representations for Transformers) for toxic text classification task.
-# ii.  Finetuned model with additional classification layer for 2 epochs with adam optimizer with lr = .00005, batch_size = 32.
-# iii. training accuracy = 95.50%, validation accuracy = 84.69%
-# iv.  model saved weights link : https://drive.google.com/open?id=1sjiXxd246lrW5bBGXVooppwv5z3d8CSJ
+ i.   used pretrained BERT (Bidirectional Encoder Representations for Transformers) for toxic text classification task.
+ ii.  Finetuned model with additional classification layer for 2 epochs with adam optimizer with lr = .00005, batch_size = 32.
+ iii. training accuracy = 95.50%, validation accuracy = 84.69%
+ iv.  model saved weights link : https://drive.google.com/open?id=1sjiXxd246lrW5bBGXVooppwv5z3d8CSJ
 
 # Dependencies
-# i.   tensorflow version 1.x, tensorflow_hub, bert-tensorflow
-# ii.  keras, numpy, pandas
+ i.   tensorflow version 1.x, tensorflow_hub, bert-tensorflow
+ ii.  keras, numpy, pandas
