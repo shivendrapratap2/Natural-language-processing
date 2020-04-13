@@ -7,3 +7,6 @@ The automatic detection and extraction of Semantic Relations is a crucial step t
 Our work is based on causal relation extraction from medical domain text. 
 
 [Click here for further information about causal relations](http://lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)
+
+## Language Generation
+This project is about a system consisting of a user interface and a deep neural network in the backend. The person with disability would select few images (whose names are keywords) and the model will try to predict what person wants to say.
